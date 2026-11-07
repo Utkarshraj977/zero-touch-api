@@ -1,0 +1,84 @@
+{
+  "name": "zero-touch-api-tester",
+  "displayName": "Zero-Touch API Tester",
+  "description": "Auto-discover Express/Node.js APIs via AST & Zod, generate smart mock/AI payloads, and test endpoints with auto JWT/Cookie chaining inside VS Code.",
+  "version": "1.0.0",
+  "publisher": "utkarshraj",
+  "author": {
+    "name": "Utkarsh Raj",
+    "email": "utkashraj72501@gmail.com",
+    "url": "https://utkarsh.website"
+  },
+  "icon": "media/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Utkarshraj977/zero-touch-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Utkarshraj977/zero-touch-api/issues"
+  },
+  "categories": [
+    "Testing",
+    "Debuggers",
+    "Other"
+  ],
+  "keywords": [
+    "api",
+    "postman",
+    "thunder client",
+    "express",
+    "rest client",
+    "ast",
+    "zod",
+    "ai api tester"
+  ],
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "activationEvents": [],
+  "main": "./dist/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "zeroTouch.runTest",
+        "title": "Run Zero-Touch API Test",
+        "icon": {
+          "light": "./media/zap.svg",
+          "dark": "./media/zap.svg"
+        }
+      }
+    ],
+    "menus": {
+      "editor/title": [
+        {
+          "command": "zeroTouch.runTest",
+          "group": "navigation"
+        }
+      ]
+    },
+    "keybindings": [
+      {
+        "command": "zeroTouch.runTest",
+        "key": "ctrl+alt+t",
+        "mac": "cmd+alt+t"
+      }
+    ]
+  },
+  "scripts": {
+    "compile": "esbuild ./src/extension.js --bundle --outfile=dist/extension.js --external:vscode --format=cjs --platform=node",
+    "watch": "npm run compile -- --watch",
+    "package": "npm run compile && npx @vscode/vsce package",
+    "publish": "npm run compile && npx @vscode/vsce publish"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.0.0",
+    "ts-morph": "^21.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/vscode": "^1.85.0",
+    "@vscode/vsce": "^3.0.0",
+    "esbuild": "^0.28.2",
+    "typescript": "^5.5.0"
+  }
+}
