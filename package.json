@@ -71,7 +71,7 @@
     "publish": "npm run compile && npx @vscode/vsce publish"
   },
   "dependencies": {
-    "@faker-js/faker": "^9.0.0",
+    "@faker-js/faker": "^10.6.0",
     "ts-morph": "^21.0.0"
   },
   "devDependencies": {
