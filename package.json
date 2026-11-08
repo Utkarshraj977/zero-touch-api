@@ -2,7 +2,7 @@
   "name": "zero-touch-api-tester",
   "displayName": "Zero-Touch API Tester",
   "description": "Auto-discover Express/Node.js APIs via AST & Zod, generate smart mock/AI payloads, and test endpoints with auto JWT/Cookie chaining inside VS Code.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "utkarshraj",
   "author": {
     "name": "Utkarsh Raj",

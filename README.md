@@ -150,20 +150,20 @@ Yes! Use the <b>+ Folder</b> button to create custom collections, the <b>+</b> i
 <table>
   <tr>
     <td align="center" width="110">
-      <img src="[https://github.com/Utkarshraj977.png](https://github.com/Utkarshraj977.png)" width="85" style="border-radius:50%;" alt="Utkarsh Raj" />
+      <img src="https://avatars.githubusercontent.com/Utkarshraj977" width="85" alt="Utkarsh Raj" />
     </td>
     <td>
       <h3>Utkarsh Raj</h3>
       <p><b>Full-Stack & Backend Software Engineer</b><br/>Building real-time systems, developer tools, and scalable cloud backends.</p>
       <p>
-        <a href="[https://github.com/Utkarshraj977](https://github.com/Utkarshraj977)"><img src="[https://img.shields.io/badge/GitHub-Utkarshraj977-181717?style=flat-square&logo=github](https://img.shields.io/badge/GitHub-Utkarshraj977-181717?style=flat-square&logo=github)" alt="GitHub" /></a>
-        <a href="[https://utkarsh.website](https://utkarsh.website)"><img src="[https://img.shields.io/badge/Portfolio-utkarsh.website-10b981?style=flat-square&logo=google-chrome&logoColor=white](https://img.shields.io/badge/Portfolio-utkarsh.website-10b981?style=flat-square&logo=google-chrome&logoColor=white)" alt="Portfolio" /></a>
-        <a href="mailto:utkarshraj72501@gmail.com"><img src="[https://img.shields.io/badge/Email-utkarshraj72501%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-utkarshraj72501%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)" alt="Email" /></a>
+        <a href="https://github.com/Utkarshraj977"><img src="https://img.shields.io/badge/GitHub-Utkarshraj977-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+        <a href="https://utkarsh.website"><img src="https://img.shields.io/badge/Portfolio-utkarsh.website-10b981?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+        <a href="mailto:utkarshraj72501@gmail.com"><img src="https://img.shields.io/badge/Email-utkarshraj72501%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
       </p>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <sub>If Zero-Touch API Tester saves you time, please consider leaving a ⭐⭐⭐⭐⭐ review on the <a href="[https://marketplace.visualstudio.com/items?itemName=utkarshraj.zero-touch-api-tester](https://marketplace.visualstudio.com/items?itemName=utkarshraj.zero-touch-api-tester)">VS Code Marketplace</a>!</sub>
+  <sub>If Zero-Touch API Tester saves you time, please consider leaving a ⭐⭐⭐⭐⭐ review on the <a href="https://marketplace.visualstudio.com/items?itemName=utkarshraj.zero-touch-api-tester">VS Code Marketplace</a>!</sub>
 </div>
